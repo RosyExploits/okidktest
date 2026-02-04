@@ -1,1 +1,1 @@
-[](.\imgs\cat.png)
+[img](.\imgs\cat.png)
